@@ -1,0 +1,1260 @@
+[
+  {
+    "_id": "1",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Cell Structure and Organisation",
+    "questionIds": [],
+    "children": ["1-1", "1-2", "1-3", "1-4", "1-5", "1-6"]
+  },
+  {
+    "_id": "1-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify cell structures (including organelles) of typical plant and animal cells from diagrams, photomicrographs and as seen under the light microscope using prepared slides and fresh material treated with an appropriate temporary staining technique:",
+    "questionIds": [],
+    "children": ["1-1-1", "1-1-2", "1-1-3", "1-1-4", "1-1-5", "1-1-6"]
+  },
+  {
+    "_id": "1-1-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Chloroplasts",
+    "questionIds": ["15", "48", "87", "190"]
+  },
+  {
+    "_id": "1-1-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Cell surface membrane",
+    "questionIds": ["7", "66", "164", "176"]
+  },
+  {
+    "_id": "1-1-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Cell wall",
+    "questionIds": []
+  },
+  {
+    "_id": "1-1-4",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Cytoplasm",
+    "questionIds": ["8", "21", "76", "83", "142", "188"]
+  },
+  {
+    "_id": "1-1-5",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Cell vacuoles (large, sap-filled in plant cells, small, temporary in animal cells)",
+    "questionIds": ["118", "184"]
+  },
+  {
+    "_id": "1-1-6",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Nucleus",
+    "questionIds": ["19", "23", "50", "64", "115", "163"]
+  },
+  {
+    "_id": "1-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify the following membrane systems and organelles from diagrams and electron micrographs:",
+    "questionIds": [],
+    "children": ["1-2-1", "1-2-2", "1-2-3", "1-2-4"]
+  },
+  {
+    "_id": "1-2-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Endoplasmic reticulum",
+    "questionIds": ["41", "45", "100"]
+  },
+  {
+    "_id": "1-2-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Mitochondria",
+    "questionIds": ["11", "59"]
+  },
+  {
+    "_id": "1-2-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Golgi body",
+    "questionIds": ["2", "123", "156", "189"]
+  },
+  {
+    "_id": "1-2-4",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Ribosomes",
+    "questionIds": ["96", "118", "121"]
+  },
+  {
+    "_id": "1-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the functions of the membrane systems and organelles identified above",
+    "questionIds": ["94", "176"],
+    "children": []
+  },
+  {
+    "_id": "1-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Compare the structure of typical animal and plant cells",
+    "questionIds": ["3", "82", "156"],
+    "children": []
+  },
+  {
+    "_id": "1-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State, in simple terms, the relationship between cell function and cell structure for the following:",
+    "questionIds": [],
+    "children": ["1-5-1", "1-5-2", "1-5-3"]
+  },
+  {
+    "_id": "1-5-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Absorption – root hair cells",
+    "questionIds": ["105", "132", "139"]
+  },
+  {
+    "_id": "1-5-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Conduction and support – xylem vessels",
+    "questionIds": ["7", "117", "171", "188", "196"]
+  },
+  {
+    "_id": "1-5-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Transport of oxygen – red blood cells",
+    "questionIds": ["56", "147"]
+  },
+  {
+    "_id": "1-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Differentiate cell, tissue, organ and organ system",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "2",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Movement of Substances",
+    "questionIds": [],
+    "children": ["2-1", "2-2", "2-3"]
+  },
+  {
+    "_id": "2-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define diffusion and describe its role in nutrient uptake and gaseous exchange in plants and humans",
+    "questionIds": ["1", "13", "40", "61"],
+    "children": []
+  },
+  {
+    "_id": "2-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define osmosis and describe the effects of osmosis on plant and animal tissues",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "2-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define active transport and discuss its importance as an energy-consuming process by which substances are transported against a concentration gradient, as in ion uptake by root hairs and uptake of glucose by cells in the villi",
+    "questionIds": ["1", "187"],
+    "children": []
+  },
+  {
+    "_id": "3",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Biological Molecules",
+    "questionIds": [],
+    "children": ["3-1", "3-2", "3-3", "3-4", "3-5", "3-6", "3-7"]
+  },
+  {
+    "_id": "3-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the roles of water in living organisms",
+    "questionIds": ["5", "66", "146", "176"],
+    "children": []
+  },
+  {
+    "_id": "3-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "List the chemical elements which make up",
+    "questionIds": [],
+    "children": ["3-2-1", "3-2-2", "3-2-3"]
+  },
+  {
+    "_id": "3-2-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Carbohydrates",
+    "questionIds": ["37", "111", "116", "134", "182"]
+  },
+  {
+    "_id": "3-2-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Fats",
+    "questionIds": ["61", "120"]
+  },
+  {
+    "_id": "3-2-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Proteins",
+    "questionIds": ["14", "92", "128"]
+  },
+  {
+    "_id": "3-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe and carry out tests for",
+    "questionIds": [],
+    "children": ["3-3-1", "3-3-2", "3-3-3", "3-3-4"]
+  },
+  {
+    "_id": "3-3-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Starch (iodine in potassium iodide solution)",
+    "questionIds": ["20"]
+  },
+  {
+    "_id": "3-3-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Reducing sugars (Benedict's solution)",
+    "questionIds": ["2", "56", "178", "199"]
+  },
+  {
+    "_id": "3-3-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Protein (biuret test)",
+    "questionIds": ["20", "24", "78", "120", "171"]
+  },
+  {
+    "_id": "3-3-4",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Fats (ethanol emulsion)",
+    "questionIds": ["107", "129", "166", "188"]
+  },
+  {
+    "_id": "3-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State that large molecules are synthesised from smaller basic units",
+    "questionIds": [],
+    "children": ["3-4-1", "3-4-2", "3-4-3"]
+  },
+  {
+    "_id": "3-4-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Glycogen from glucose",
+    "questionIds": ["45", "45", "112", "178", "183"]
+  },
+  {
+    "_id": "3-4-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Polypeptides and proteins from amino acids",
+    "questionIds": ["26", "38", "64", "181"]
+  },
+  {
+    "_id": "3-4-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Lipids such as fats from glycerol and fatty acids",
+    "questionIds": ["9", "76", "174"]
+  },
+  {
+    "_id": "3-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain enzyme action in terms of the ‘lock and key’ hypothesis",
+    "questionIds": ["10", "19", "55", "77", "127"],
+    "children": []
+  },
+  {
+    "_id": "3-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the mode of action of enzymes in terms of an active site, enzyme-substrate complex, lowering of activation energy and enzyme specificity",
+    "questionIds": ["5", "33", "38", "67", "120", "197"],
+    "children": []
+  },
+  {
+    "_id": "3-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Investigate and explain the effects of temperature and pH on the rate of enzyme catalysed reactions",
+    "questionIds": ["153"],
+    "children": []
+  },
+  {
+    "_id": "4",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Nutrition in Humans",
+    "questionIds": [],
+    "children": ["4-1", "4-2", "4-3", "4-4", "4-5", "4-6", "4-7"]
+  },
+  {
+    "_id": "4-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the functions of main regions of the alimentary canal and the associated organs: mouth, salivary glands, oesophagus, stomach, duodenum, pancreas, gall bladder, liver, ileum, colon, rectum, anus, in relation to ingestion, digestion, absorption, assimilation and egestion of food, as appropriate",
+    "questionIds": ["23", "60", "90"],
+    "children": []
+  },
+  {
+    "_id": "4-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe peristalsis in terms of rhythmic wave-like contractions of the muscles to mix and propel the contents of the alimentary canal",
+    "questionIds": ["6", "136"],
+    "children": []
+  },
+  {
+    "_id": "4-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the functions of enzymes (e.g. amylase, maltase, protease, lipase) in digestion, listing the substrates and end-products",
+    "questionIds": ["59"],
+    "children": []
+  },
+  {
+    "_id": "4-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the structure of a villus and its role, including the role of capillaries and lacteals in absorption",
+    "questionIds": ["47", "62"],
+    "children": []
+  },
+  {
+    "_id": "4-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the function of the hepatic portal vein as the transport of blood rich in absorbed nutrients from the small intestine to the liver",
+    "questionIds": ["6", "80", "89", "110"],
+    "children": []
+  },
+  {
+    "_id": "4-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the role of the liver in",
+    "questionIds": [],
+    "children": ["4-6-1", "4-6-2", "4-6-3", "4-6-4", "4-6-5"]
+  },
+  {
+    "_id": "4-6-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Carbohydrate metabolism",
+    "questionIds": ["131", "184"]
+  },
+  {
+    "_id": "4-6-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Fat digestion",
+    "questionIds": ["123", "155"]
+  },
+  {
+    "_id": "4-6-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Breakdown of red blood cells",
+    "questionIds": ["25", "34", "133", "158", "188"]
+  },
+  {
+    "_id": "4-6-4",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Metabolism of amino acids and the formation of urea",
+    "questionIds": []
+  },
+  {
+    "_id": "4-6-5",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Breakdown of alcohol",
+    "questionIds": ["46", "63", "185"]
+  },
+  {
+    "_id": "4-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the effects of excessive consumption of alcohol: reduced self-control, depressant, effect on reaction times, damage to liver and social implications",
+    "questionIds": ["82", "125", "152"],
+    "children": []
+  },
+  {
+    "_id": "5",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Nutrition in Plants",
+    "questionIds": [],
+    "children": ["5-1", "5-2", "5-3", "5-4", "5-5", "5-6"]
+  },
+  {
+    "_id": "5-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify and label the cellular and tissue structure of a dicotyledonous leaf, as seen in transverse section using the light microscope and describe the significance of these features in terms of their functions, such as the",
+    "questionIds": [],
+    "children": ["5-1-1", "5-1-2", "5-1-3"]
+  },
+  {
+    "_id": "5-1-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Distribution of chloroplasts in photosynthesis",
+    "questionIds": ["9", "56", "151"]
+  },
+  {
+    "_id": "5-1-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Stomata and mesophyll cells in gaseous exchange",
+    "questionIds": ["84", "129", "154"]
+  },
+  {
+    "_id": "5-1-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Vascular bundles in transport",
+    "questionIds": ["78"]
+  },
+  {
+    "_id": "5-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the equation, in words and symbols, for photosynthesis",
+    "questionIds": ["66", "109"],
+    "children": []
+  },
+  {
+    "_id": "5-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the intake of carbon dioxide and water by plants",
+    "questionIds": ["183", "189"],
+    "children": []
+  },
+  {
+    "_id": "5-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State that chlorophyll traps light energy and converts it into chemical energy for the formation of carbohydrates and their subsequent uses",
+    "questionIds": ["122", "145"],
+    "children": []
+  },
+  {
+    "_id": "5-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Investigate and discuss the effects of varying light intensity, carbon dioxide concentration and temperature on the rate of photosynthesis (e.g. in submerged aquatic plant)",
+    "questionIds": ["107"],
+    "children": []
+  },
+  {
+    "_id": "5-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Discuss light intensity, carbon dioxide concentration and temperature as limiting factors on the rate of photosynthesis",
+    "questionIds": ["119"],
+    "children": []
+  },
+  {
+    "_id": "6",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Transport in Flowering Plants",
+    "questionIds": [],
+    "children": ["6-1", "6-2", "6-3", "6-4", "6-5", "6-6", "6-7"]
+  },
+  {
+    "_id": "6-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify the positions and explain the functions of xylem vessels, phloem (sieve tube elements and companion cells) in sections of a herbaceous dicotyledonous leaf and stem, using the light microscope",
+    "questionIds": ["37", "109", "180"],
+    "children": []
+  },
+  {
+    "_id": "6-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Relate the structure and functions of root hairs to their surface area, and to water and ion uptake",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "6-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the movement of water between plant cells, and between them and the environment in\nterms of water potential (calculations on water potential are not required)",
+    "questionIds": ["24"],
+    "children": []
+  },
+  {
+    "_id": "6-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the pathway by which water is transported from the roots to the leaves through the xylem vessels",
+    "questionIds": ["12", "106", "111"],
+    "children": []
+  },
+  {
+    "_id": "6-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define the term transpiration and explain that transpiration is a consequence of gaseous exchange in plants",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "6-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe and explain",
+    "questionIds": [],
+    "children": ["6-6-1", "6-6-2"]
+  },
+  {
+    "_id": "6-6-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "The effects of variation of air movement, temperature, humidity and light intensity on transpiration rate",
+    "questionIds": ["129", "158"]
+  },
+  {
+    "_id": "6-6-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "How wilting occurs",
+    "questionIds": ["87", "127", "162", "198"]
+  },
+  {
+    "_id": "6-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define the term translocation as the transport of food in the phloem tissue and illustrate the process through translocation studies",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "7",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Transport in Humans",
+    "questionIds": [],
+    "children": ["7-1", "7-2", "7-3", "7-4", "7-5", "7-6", "7-7", "7-8"]
+  },
+  {
+    "_id": "7-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify the main blood vessels to and from the heart, lungs, liver and kidney",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "7-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the role of blood in transport and defence",
+    "questionIds": [],
+    "children": ["7-2-1", "7-2-2", "7-2-3", "7-2-4"]
+  },
+  {
+    "_id": "7-2-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Red blood cells – haemoglobin and oxygen transport",
+    "questionIds": ["31", "168", "186"]
+  },
+  {
+    "_id": "7-2-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Plasma – transport of blood cells, ions, soluble food substances, hormones, carbon dioxide, urea, vitamins, plasma proteins",
+    "questionIds": ["73", "95", "118", "121", "137", "172"]
+  },
+  {
+    "_id": "7-2-3",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "White blood cells – phagocytosis, antibody formation and tissue rejection",
+    "questionIds": ["97", "117", "127", "144", "155", "165"]
+  },
+  {
+    "_id": "7-2-4",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Platelets – fibrinogen to fibrin, causing clotting",
+    "questionIds": ["61", "178"]
+  },
+  {
+    "_id": "7-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "List the different ABO blood groups and all possible combinations for the donor and recipient in blood transfusions",
+    "questionIds": ["178", "195", "198"],
+    "children": []
+  },
+  {
+    "_id": "7-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Relate the structure of arteries, veins and capillaries to their functions",
+    "questionIds": ["68", "111"],
+    "children": []
+  },
+  {
+    "_id": "7-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the transfer of materials between capillaries and tissue fluid",
+    "questionIds": ["4", "117", "182"],
+    "children": []
+  },
+  {
+    "_id": "7-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the structure and function of the heart in terms of muscular contraction and the working of valves",
+    "questionIds": ["27", "89"],
+    "children": []
+  },
+  {
+    "_id": "7-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the cardiac cycle in terms of what happens during systole and diastole (histology of the heart muscle, names of nerves and transmitter substances are not required)",
+    "questionIds": ["74", "104", "126", "131"],
+    "children": []
+  },
+  {
+    "_id": "7-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe coronary heart disease in terms of the occlusion of coronary arteries and list the possible causes, such as diet, stress and smoking, stating the possible preventative measures",
+    "questionIds": ["194"],
+    "children": []
+  },
+  {
+    "_id": "8",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Respiration in Humans",
+    "questionIds": [],
+    "children": ["8-1", "8-2", "8-3", "8-4", "8-5", "8-6", "8-7", "8-8"]
+  },
+  {
+    "_id": "8-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify on diagrams and name the larynx, trachea, bronchi, bronchioles, alveoli and associated capillaries",
+    "questionIds": ["71", "88", "108", "108", "164", "173", "184"],
+    "children": []
+  },
+  {
+    "_id": "8-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the characteristics of, and describe the role of, the exchange surface of the alveoli in gas exchange",
+    "questionIds": ["28", "122"],
+    "children": []
+  },
+  {
+    "_id": "8-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the removal of carbon dioxide from the lungs, including the role of the carbonic anhydrase enzyme",
+    "questionIds": ["110", "123", "171", "173", "175", "198"],
+    "children": []
+  },
+  {
+    "_id": "8-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the role of cilia, diaphragm, ribs and intercostal muscles in breathing",
+    "questionIds": ["15", "39", "107", "135", "145", "182"],
+    "children": []
+  },
+  {
+    "_id": "8-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the effect of tobacco smoke and its major toxic components – nicotine, tar and carbon monoxide, on health",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "8-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define and state the equation, in words and symbols, for aerobic respiration in humans",
+    "questionIds": ["22"],
+    "children": []
+  },
+  {
+    "_id": "8-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define and state the equation, in words only, for anaerobic respiration in humans",
+    "questionIds": ["4", "23", "31", "61", "73", "188"],
+    "children": []
+  },
+  {
+    "_id": "8-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the effect of lactic acid in muscles during exercise",
+    "questionIds": ["101", "111", "123", "161"],
+    "children": []
+  },
+  {
+    "_id": "9",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Excretion in Humans",
+    "questionIds": [],
+    "children": ["9-1", "9-2", "9-3", "9-4"]
+  },
+  {
+    "_id": "9-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define excretion and explain the importance of removing nitrogenous and other compounds from the body",
+    "questionIds": ["58", "140", "147", "173", "177"],
+    "children": []
+  },
+  {
+    "_id": "9-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the function of the nephron with reference to ultra-filtration and selective reabsorption in the production of urine",
+    "questionIds": ["51", "114", "120"],
+    "children": []
+  },
+  {
+    "_id": "9-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the role of anti-diuretic hormone (ADH) in osmoregulation",
+    "questionIds": ["27", "64", "119", "122"],
+    "children": []
+  },
+  {
+    "_id": "9-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the mechanism of dialysis in the case of kidney failure",
+    "questionIds": ["83", "153", "195"],
+    "children": []
+  },
+  {
+    "_id": "10",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Homeostasis",
+    "questionIds": [],
+    "children": ["10-1", "10-2", "10-3", "10-4"]
+  },
+  {
+    "_id": "10-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define homeostasis as the maintenance of a constant internal environment",
+    "questionIds": ["1", "118", "121"],
+    "children": []
+  },
+  {
+    "_id": "10-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the basic principles of homeostasis in terms of stimulus resulting from a change in the internal environment, a corrective mechanism and negative feedback",
+    "questionIds": ["3", "55", "129"],
+    "children": []
+  },
+  {
+    "_id": "10-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify on a diagram of the skin: hairs, sweat glands, temperature receptors, blood vessels and fatty tissue",
+    "questionIds": ["87", "192"],
+    "children": []
+  },
+  {
+    "_id": "10-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the maintenance of a constant body temperature in humans in terms of insulation and the role of: temperature receptors in the skin, sweating, shivering, blood vessels near the skin surface and the co-ordinating role of the hypothalamus",
+    "questionIds": ["17", "37"],
+    "children": []
+  },
+  {
+    "_id": "11",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Co-ordination and Response in Humans",
+    "questionIds": [],
+    "children": [
+      "11-1",
+      "11-2",
+      "11-3",
+      "11-4",
+      "11-5",
+      "11-6",
+      "11-7",
+      "11-8",
+      "11-9",
+      "11-10",
+      "11-11",
+      "11-12"
+    ]
+  },
+  {
+    "_id": "11-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the relationship between receptors, the central nervous system and the effectors",
+    "questionIds": ["19", "30", "53", "168", "171"],
+    "children": []
+  },
+  {
+    "_id": "11-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the structure of the eye as seen in front view and in horizontal section",
+    "questionIds": ["15", "23", "35", "125", "180"],
+    "children": []
+  },
+  {
+    "_id": "11-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the principal functions of component parts of the eye in producing a focused image of near and distant objects on the retina",
+    "questionIds": ["97"],
+    "children": []
+  },
+  {
+    "_id": "11-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the pupil reflex in response to bright and dim light",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "11-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State that the nervous system – brain, spinal cord and nerves, serves to co-ordinate and regulate bodily functions",
+    "questionIds": ["179"],
+    "children": []
+  },
+  {
+    "_id": "11-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the functions of sensory neurones, relay neurones and motor neurones",
+    "questionIds": ["92", "151", "184"],
+    "children": []
+  },
+  {
+    "_id": "11-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Discuss the function of the brain and spinal cord in producing a co-ordinated response as a result of a specific stimulus in a reflex action",
+    "questionIds": ["75", "122", "189"],
+    "children": []
+  },
+  {
+    "_id": "11-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define a hormone as a chemical substance, produced by a gland, carried by the blood, which alters the activity of one or more specific target organs and is then destroyed by the liver",
+    "questionIds": ["92", "130", "167"],
+    "children": []
+  },
+  {
+    "_id": "11-9",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain what is meant by an endocrine gland, with reference to the islets of Langerhans in the pancreas",
+    "questionIds": ["2", "106"],
+    "children": []
+  },
+  {
+    "_id": "11-10",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the role of the hormone adrenaline in boosting blood glucose levels and give examples of situations in which this may occur",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "11-11",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain how the blood glucose concentration is regulated by insulin and glucagon as a homeostatic mechanism",
+    "questionIds": ["15", "24", "58", "107", "152"],
+    "children": []
+  },
+  {
+    "_id": "11-12",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the signs, such as an increased blood glucose level and glucose in urine, and the treatment of diabetes mellitus using insulin",
+    "questionIds": ["20"],
+    "children": []
+  },
+  {
+    "_id": "12",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Reproduction",
+    "questionIds": [],
+    "children": [
+      "12-1",
+      "12-2",
+      "12-3",
+      "12-4",
+      "12-5",
+      "12-6",
+      "12-7",
+      "12-8",
+      "12-9",
+      "12-10",
+      "12-11",
+      "12-12",
+      "12-13",
+      "12-14",
+      "12-15"
+    ]
+  },
+  {
+    "_id": "12-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define asexual reproduction as the process resulting in the production of genetically identical offspring from one parent",
+    "questionIds": ["41", "106", "166", "170"],
+    "children": []
+  },
+  {
+    "_id": "12-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define sexual reproduction as the process involving the fusion of nuclei to form a zygote and the production of genetically dissimilar offspring",
+    "questionIds": ["29", "48", "58", "176", "181"],
+    "children": []
+  },
+  {
+    "_id": "12-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify and draw, using a hand lens if necessary, the sepals, petals, stamens and carpels of one, locally available, named, insect-pollinated, dicotyledonous flower, and examine the pollen grains using a microscope",
+    "questionIds": ["109", "155"],
+    "children": []
+  },
+  {
+    "_id": "12-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the functions of the sepals, petals, anthers and carpels",
+    "questionIds": ["65", "91"],
+    "children": []
+  },
+  {
+    "_id": "12-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Use a hand lens to identify and describe the stamens and stigmas of one, locally available, named, wind-pollinated flower, and examine the pollen grains using a microscope",
+    "questionIds": ["7", "53", "54", "73"],
+    "children": []
+  },
+  {
+    "_id": "12-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the process of pollination and distinguish between self-pollination and cross-pollination",
+    "questionIds": ["69", "158", "182"],
+    "children": []
+  },
+  {
+    "_id": "12-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Compare, using fresh specimens, an insect-pollinated and a wind-pollinated flower",
+    "questionIds": ["37", "52", "109"],
+    "children": []
+  },
+  {
+    "_id": "12-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the growth of the pollen tube and its entry into the ovule followed by fertilisation (production of endosperm and details of development are not required)",
+    "questionIds": ["181"],
+    "children": []
+  },
+  {
+    "_id": "12-9",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify on diagrams, the male reproductive system and give the functions of: testes, scrotum, sperm ducts, prostate gland, urethra and penis",
+    "questionIds": ["49", "122"],
+    "children": []
+  },
+  {
+    "_id": "12-10",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify on diagrams, the female reproductive system and give the functions of: ovaries, oviducts, uterus, cervix and vagina",
+    "questionIds": ["65", "106", "169", "171", "173", "179"],
+    "children": []
+  },
+  {
+    "_id": "12-11",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Briefly describe the menstrual cycle with reference to the alternation of menstruation and ovulation, the natural variation in its length, and the fertile and infertile phases of the cycle with reference to the effects of progesterone and estrogen only",
+    "questionIds": ["3", "25", "25", "193"],
+    "children": []
+  },
+  {
+    "_id": "12-12",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe fertilisation and early development of the zygote simply in terms of the formation of a ball of cells which becomes implanted in the wall of the uterus",
+    "questionIds": ["125", "133"],
+    "children": []
+  },
+  {
+    "_id": "12-13",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the functions of the amniotic sac and the amniotic fluid",
+    "questionIds": ["7", "12", "45", "138", "187"],
+    "children": []
+  },
+  {
+    "_id": "12-14",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the function of the placenta and umbilical cord in relation to exchange of dissolved nutrients, gases and excretory products (structural details are not required)",
+    "questionIds": ["56", "56", "153", "190"],
+    "children": []
+  },
+  {
+    "_id": "12-15",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Discuss the spread of human immunodeficiency virus (HIV) and methods by which it may be controlled",
+    "questionIds": ["15", "130", "167", "197"],
+    "children": []
+  },
+  {
+    "_id": "13",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Cell Division",
+    "questionIds": [],
+    "children": ["13-1", "13-2", "13-3", "13-4", "13-5", "13-6", "13-7"]
+  },
+  {
+    "_id": "13-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the importance of mitosis in growth, repair and asexual reproduction",
+    "questionIds": ["86", "92", "92", "121"],
+    "children": []
+  },
+  {
+    "_id": "13-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the need for the production of genetically identical cells",
+    "questionIds": ["101", "125"],
+    "children": []
+  },
+  {
+    "_id": "13-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify, with the aid of diagrams, the main stages of mitosis",
+    "questionIds": ["3", "120", "160"],
+    "children": []
+  },
+  {
+    "_id": "13-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State what is meant by homologous pairs of chromosomes",
+    "questionIds": ["149"],
+    "children": []
+  },
+  {
+    "_id": "13-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Identify, with the aid of diagrams, the main stages of meiosis (names of the sub-divisions of prophase are not required)",
+    "questionIds": ["70", "89", "161"],
+    "children": []
+  },
+  {
+    "_id": "13-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define the terms haploid and diploid, and explain the need for a reduction division process prior to fertilisation in sexual reproduction",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "13-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State how meiosis and fertilisation can lead to variation",
+    "questionIds": ["87", "89", "155"],
+    "children": []
+  },
+  {
+    "_id": "14",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Molecular Genetics",
+    "questionIds": [],
+    "children": ["14-1", "14-2", "14-3", "14-4", "14-5", "14-6", "14-7", "14-8"]
+  },
+  {
+    "_id": "14-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the relationship between DNA, genes and chromosomes",
+    "questionIds": ["31", "79", "107", "150", "162"],
+    "children": []
+  },
+  {
+    "_id": "14-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the structure of DNA in terms of the bases, sugar and phosphate groups found in each of their nucleotides",
+    "questionIds": ["3", "148", "198"],
+    "children": []
+  },
+  {
+    "_id": "14-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State the rule of complementary base pairing",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "14-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State that DNA is used to carry the genetic code, which is used to synthesise specific polypeptides (details of transcription and translation are not required)",
+    "questionIds": ["126", "144"],
+    "children": []
+  },
+  {
+    "_id": "14-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State that each gene is a sequence of nucleotides, as part of a DNA molecule",
+    "questionIds": ["34", "44", "59", "73", "105"],
+    "children": []
+  },
+  {
+    "_id": "14-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain that genes may be transferred between cells. Reference should be made to the transfer of genes between organisms of the same species or different species – transgenic plants or animals",
+    "questionIds": ["20", "43", "72", "162"],
+    "children": []
+  },
+  {
+    "_id": "14-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Briefly explain how a gene that controls the production of human insulin can be inserted into bacterial DNA to produce human insulin in medical biotechnology",
+    "questionIds": ["4", "58", "99", "180", "195"],
+    "children": []
+  },
+  {
+    "_id": "14-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Discuss the social and ethical implications of genetic engineering, with reference to a named example",
+    "questionIds": ["42", "69", "80", "103", "124", "155", "162"],
+    "children": []
+  },
+  {
+    "_id": "15",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Inheritance",
+    "questionIds": [],
+    "children": [
+      "15-1",
+      "15-2",
+      "15-3",
+      "15-4",
+      "15-5",
+      "15-6",
+      "15-7",
+      "15-8",
+      "15-9",
+      "15-10",
+      "15-11",
+      "15-12",
+      "15-13",
+      "15-14"
+    ]
+  },
+  {
+    "_id": "15-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Define a gene as a unit of inheritance and distinguish clearly between the terms gene and allele",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "15-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the terms dominant, recessive, codominant, homozygous, heterozygous, phenotype and genotype",
+    "questionIds": ["51", "197", "198"],
+    "children": []
+  },
+  {
+    "_id": "15-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Predict the results of simple crosses with expected ratios of 3:1 and 1:1, using the terms homozygous, heterozygous, F1 generation and F2 generation",
+    "questionIds": ["32", "49", "191"],
+    "children": []
+  },
+  {
+    "_id": "15-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain why observed ratios often differ from expected ratios, especially when there are small numbers of progeny",
+    "questionIds": ["14", "31", "190"],
+    "children": []
+  },
+  {
+    "_id": "15-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Use genetic diagrams to solve problems involving monohybrid inheritance (genetic diagrams involving autosomal linkage or epistasis are not required)",
+    "questionIds": ["27", "137", "159", "178"],
+    "children": []
+  },
+  {
+    "_id": "15-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain co-dominance and multiple alleles with reference to the inheritance of the ABO blood group phenotypes (A, B, AB and O) and the gene alleles (Iᴬ, Iᴮ and Iᴼ)",
+    "questionIds": ["189"],
+    "children": []
+  },
+  {
+    "_id": "15-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the determination of sex in humans – XX and XY chromosomes",
+    "questionIds": ["85", "109", "117", "117"],
+    "children": []
+  },
+  {
+    "_id": "15-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe mutation as a change in the structure of a gene such as in sickle cell anaemia, or in the chromosome number, such as the 47 chromosomes in the condition known as Down syndrome",
+    "questionIds": ["36"],
+    "children": []
+  },
+  {
+    "_id": "15-9",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Name radiation and chemicals as factors which may increase the rate of mutation",
+    "questionIds": ["37", "77", "81", "106"],
+    "children": []
+  },
+  {
+    "_id": "15-10",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe the difference between continuous and discontinuous variation and give examples of each",
+    "questionIds": ["123", "141"],
+    "children": []
+  },
+  {
+    "_id": "15-11",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "State that variation and competition lead to differential survival of, and reproduction by, those organisms best fitted to the environment",
+    "questionIds": ["180"],
+    "children": []
+  },
+  {
+    "_id": "15-12",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Give examples of environmental factors that act as forces of natural selection",
+    "questionIds": ["52", "103", "116", "143"],
+    "children": []
+  },
+  {
+    "_id": "15-13",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the role of natural selection as a possible mechanism for evolution",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "15-14",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Give examples of artificial selection such as in the production of economically important plants and animals",
+    "questionIds": ["48", "87", "98"],
+    "children": []
+  },
+  {
+    "_id": "16",
+    "topicLevel": { "$numberInt": "1" },
+    "text": "Organisms and their Environment",
+    "questionIds": [],
+    "children": ["16-1", "16-2", "16-3", "16-4", "16-5", "16-6", "16-7", "16-8"]
+  },
+  {
+    "_id": "16-1",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Briefly describe the non-cyclical nature of energy flow",
+    "questionIds": ["23", "83", "157"],
+    "children": []
+  },
+  {
+    "_id": "16-2",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain the terms producer, consumer and trophic level in the context of food chains and food webs",
+    "questionIds": ["18", "70", "121", "182"],
+    "children": []
+  },
+  {
+    "_id": "16-3",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Explain how energy losses occur along food chains, and discuss the efficiency of energy transfer between trophic levels",
+    "questionIds": ["2", "57", "144", "181"],
+    "children": []
+  },
+  {
+    "_id": "16-4",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe and interpret pyramids of numbers and biomass",
+    "questionIds": ["79", "86", "93", "181"],
+    "children": []
+  },
+  {
+    "_id": "16-5",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Describe how carbon is cycled within an ecosystem and outline the role of forests and oceans as carbon sinks",
+    "questionIds": ["66", "66", "75", "113"],
+    "children": []
+  },
+  {
+    "_id": "16-6",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Evaluate the effects of",
+    "questionIds": [],
+    "children": ["16-6-1", "16-6-2"]
+  },
+  {
+    "_id": "16-6-1",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Water pollution by sewage and by inorganic waste",
+    "questionIds": ["26", "111", "118", "158", "176"]
+  },
+  {
+    "_id": "16-6-2",
+    "topicLevel": { "$numberInt": "3" },
+    "text": "Pollution due to insecticides including bioaccumulation up food chains and impact on top carnivores",
+    "questionIds": ["16", "102", "145", "158"]
+  },
+  {
+    "_id": "16-7",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Outline the roles of microorganisms in sewage treatment as an example of environmental biotechnology",
+    "questionIds": [],
+    "children": []
+  },
+  {
+    "_id": "16-8",
+    "topicLevel": { "$numberInt": "2" },
+    "text": "Discuss reasons for conservation of species with reference to the maintenance of biodiversity and how this is done, e.g. management of fisheries and management of timber production",
+    "questionIds": [],
+    "children": []
+  }
+]
